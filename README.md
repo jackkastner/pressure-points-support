@@ -8,7 +8,7 @@ Pressure Points is a 2v2 golf betting game and scorekeeper for iOS.
 
 For questions, bug reports, or feedback, please open an issue on this repo or email:
 
-**jackkastner@gmail.com**
+**jlkastner3@gmail.com**
 
 ## Privacy
 
